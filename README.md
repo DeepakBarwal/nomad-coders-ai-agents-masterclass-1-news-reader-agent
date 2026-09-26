@@ -4,6 +4,7 @@
 `.env`
 ```bash
 OPENAI_API_KEY="<paste_key_here>"
+SERPER_API_KEY="<paste_key_here>"
 ```
 
 ## Setup

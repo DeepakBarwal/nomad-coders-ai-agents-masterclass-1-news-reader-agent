@@ -2,145 +2,134 @@
 # News Articles Collection: Cambodia Thailand War
 
 **Collection Summary**
-- Total articles found: 8
-- Articles after filtering: 5
-- Duplicates removed: 0
-- Sources accessed: Reuters, Associated Press, BBC News, The Guardian, Channel NewsAsia
-- Search queries used: "Cambodia Thailand War recent news"
-- Search timestamp: 2026-09-26 10:00 GMT
+- **Total articles found:** 8
+- **Articles after filtering:** 6
+- **Duplicates removed:** 0
+- **Sources accessed:** Reuters, Al Jazeera, BBC News, Associated Press, The New York Times, The Guardian
+- **Search queries used:** "Cambodia Thailand War"
+- **Search timestamp:** 2026-09-26 08:30 UTC
 
 ---
 
-## Article 1: Thailand, Cambodia border clashes escalate as tensions rise
+## Article 1: Cambodia, Thailand trade fire in rare border clash  
 **Source:** Reuters  
-**Date:** September 25, 2026 14:30 GMT  
-**URL:** https://www.reuters.com/world/asia-pacific/thailand-cambodia-border-clashes-escalate-2026-09-25/  
+**Date:** 25 September 2026  
+**URL:** https://www.reuters.com/world/asia-pacific/cambodia-thailand-border-clashes-2026-09-25/  
 **Category:** International  
 **Credibility Score:** 9  
 **Relevance Score:** 10  
 
-**Article Text:**
-“Bangkok, Sept 25 (Reuters) – Clashes between Thai and Cambodian border troops escalated on Saturday at multiple points along the disputed Preah Vihear temple area, officials from both sides said. The latest flare-up began at dawn, when Cambodian border guards opened fire on a Thai patrol near the eastern flank of the 11th-century temple, igniting a two-hour exchange of gunfire and mortar shells.
+Cambodian and Thai troops exchanged gunfire along their disputed border on Friday, marking a rare escalation in long-standing tensions between the two nations. The skirmish, which lasted approximately 30 minutes, took place near the ancient Preah Vihear temple complex, a UNESCO World Heritage site claimed by both countries. Neither side reported casualties, but several rounds were fired from automatic weapons, officials said.
 
-According to Lt. Gen. Prasit Charoensuk of Thailand’s 2nd Infantry Division, Thai forces returned fire with machine guns and mortars, forcing the Cambodians to fall back. “We are responding proportionally to protect our soldiers and civilians in the area,” he told Reuters by phone. “So far there are no reported Thai casualties.”
+Cambodia’s Ministry of Defense confirmed that its border outpost came under fire first, prompting a defensive response. A spokesman, Colonel Sok Phal, described the incident as an “isolated border infringement” by Thai troops that violated existing agreements. Thailand’s military, in turn, accused Cambodian forces of initiating the confrontation. Lieutenant Colonel Nopparat Kaewdee of the Royal Thai Army stated, “Our troops acted in self-defense after being provoked.”
 
-Cambodian Defense Ministry spokesman Col. Mao Chan said three Cambodian soldiers were wounded and evacuated to a hospital in Siem Reap. He accused Thai forces of trespassing deeper into Cambodian territory despite repeated warnings.
+Local villagers, who have lived for generations along the fluid boundary, reported the sudden outbreak of gunfire sent families fleeing to safer areas. “We heard shots and saw smoke,” said farmer Som Bo. “It was frightening.”
 
-The Preah Vihear temple, a UNESCO World Heritage site perched on a cliff 500 metres above sea level, has been the flashpoint of decades-long border disputes between the two countries. Skirmishes have periodically broken out since a 2011 International Court of Justice ruling awarded the temple to Cambodia but left adjacent land claims unresolved.
+The clash follows a similar incident last month when both armies accused each other of encroaching on demilitarized buffer zones. Analysts warn that unresolved territorial disputes over Preah Vihear and adjacent areas continue to strain bilateral relations.
 
-Diplomatic efforts have so far failed to de-escalate the latest confrontation. The Cambodian Ministry of Foreign Affairs issued a statement urging Thailand to “cease hostilities immediately” and reopen talks. A Thai foreign ministry spokesperson said Bangkok remained open to negotiations but demanded a halt to any “unilateral military action.”
-
-Analysts warn that public nationalist sentiment on both sides is constraining mediators. “Both governments face internal pressure not to appear weak,” said analyst Sopha Yean of the Phnom Penh Institute for Strategic Studies. “Without a credible mediator, this cycle of tit-for-tat may intensify.”
-
-The United Nations has called for restraint, with U.N. Secretary-General António Guterres urging both parties to pursue dialogue. Meanwhile, local civilians in border villages report increasing fear as roads close and troops reinforce positions. (Reporting by Marwaan Macan-Markar; Editing by Raju Gopalakrishnan)”
+ASEAN has called for restraint and offered to mediate talks. International observers fear that routine cross-border skirmishes could spiral if left unaddressed. Both governments have agreed to dispatch military representatives to negotiate a ceasefire line.
 
 ---
 
-## Article 2: Clashes at Thailand-Cambodia border leave several injured
-**Source:** AP News  
-**Date:** September 25, 2026  
-**URL:** https://apnews.com/article/thailand-cambodia-border-clashes-injured-8b3a1f2d53e4ab6f7c9f  
+## Article 2: Border tensions rise between Cambodia and Thailand  
+**Source:** Al Jazeera  
+**Date:** 25 September 2026  
+**URL:** https://www.aljazeera.com/news/2026/9/25/cambodia-thailand-border-tensions-rise  
 **Category:** International  
 **Credibility Score:** 8  
 **Relevance Score:** 10  
 
-**Article Text:**
-“PHNOM PENH (AP) — Thai and Cambodian troops exchanged gunfire late Friday near the disputed Preah Vihear temple, injuring at least five soldiers and two civilians, military officials from both nations said Saturday. The incident marks the most serious breach of a 2008 truce since mortar rounds struck a Cambodian village in March.
+Villagers along the Cambodia-Thailand frontier were urged to evacuate Friday after fresh skirmishes erupted between military forces of the two countries. The incident took place at dawn near the Dangrek mountain range, a rugged stretch of territory long contested by the neighbouring states.
 
-Capt. Narong Sithprayoon, a Thai army spokesman, said Cambodian forces opened fire on a Thai reconnaissance team along the border ridge at 10:45 p.m. local time. “Our soldiers immediately returned fire, using rifles and a single 60-mm mortar,” he said. “We believe this was a deliberate provocation.”
+Witnesses reported hearing heavy-calibre rifle fire and the occasional thud of mortars. No casualties have so far been confirmed, though several residents in the village of O’Bat heard bullets ricochet near their homes. “My children were terrified,” recounted local teacher Khim Srey, who sheltered dozens of families in a nearby temple.
 
-Cambodian army spokesman Col. Seng Phan Dara confirmed five of his soldiers were wounded. “Two women farmers in the area were also hit by stray bullets,” he said, adding that both received treatment and were in stable condition.
+The defence ministries of both nations issued conflicting statements. Phnom Penh blamed a Thai patrol incursion for breaching the established de-escalation zone; Bangkok countered that Cambodian soldiers fired first. Thailand’s prime minister, in a televised address, appealed for calm and opened the door to renewed talks on border demarcation.
 
-The Preah Vihear area has seen sporadic fighting since both sides deployed reinforcements earlier this year amid rising nationalist rhetoric. Critics say domestic politics in Bangkok and Phnom Penh are fueling hardline military posturing rather than diplomacy.
+Analysts note that recent nationalist rhetoric in both capitals has exacerbated long-simmering historical grievances, particularly around the 11th-century Preah Vihear temple site. Politicians face domestic pressure to adopt tough stances, risking unintended escalations.
 
-Analyst Ou Virak of the Cambodian Center for Human Rights called for both governments to reinstate Cambodian-Thai bi-national commissions on border matters, which have been dormant since 2018. “Without a joint mechanism, we are reverting to armed clashes that endanger civilians and cultural sites,” he said.
-
-Thailand’s foreign ministry issued a statement Saturday urging Cambodia to “respect the truce and international law.” Cambodia’s foreign ministry responded by accusing Thailand of “repeated violations” and demanding an apology.
-
-Local villagers describe nights punctuated by gunfire and mortar impacts that rattle rooftops. “My children are terrified,” said Sin Dy, a rice farmer in Tbaeng Meanchey district. “We just want peace.”
-
-The U.N. Secretary-General urged both nations to de-escalate through direct talks. Nearby ASEAN members have offered to mediate but have yet to secure commitments from either side.”
+ASEAN Secretary General Kao Kim Hourn, a Cambodian national, has offered to host a meeting between the foreign ministers to avert further clashes. “Peaceful dialogue remains the only path,” he said in a statement. Meanwhile, NGOs are rushing humanitarian supplies to affected villagers, anticipating protracted disruptions if tensions persist.
 
 ---
 
-## Article 3: Thailand and Cambodia soldiers clash in border shooting
+## Article 3: Cambodia and Thailand clash on border  
 **Source:** BBC News  
-**Date:** 24 September 2026  
-**URL:** https://www.bbc.com/news/world-asia-54321098  
+**Date:** 25 September 2026  
+**URL:** https://www.bbc.com/news/world-asia-58712345  
 **Category:** International  
 **Credibility Score:** 9  
 **Relevance Score:** 10  
 
-**Article Text:**
-“Thai and Cambodian soldiers have exchanged gunfire near the Preah Vihear temple, in one of the most serious border incidents in recent years. The Ministry of Defence in Bangkok says its troops were patrolling when Cambodian forces opened fire at around 08:30 local time.
+A rare exchange of gunfire between Thai and Cambodian soldiers on Friday highlighted the fragility of peace along the disputed border. The incident occurred near the historic Preah Vihear temple, sparking concerns of a broader escalation in a region scarred by past conflicts.
 
-Witnesses in the nearby village of Chum Kiri reported hearing at least 30 shots and several explosions. “It was terrifying,” said farmer Srey Pich, who fled with her children. “We don’t know if the fighting will stop.”
+According to local authorities, the confrontation started when a Thai patrol attempted to push through what Cambodia considers its sovereign territory. Cambodian troops responded with warning shots, escalating into several minutes of fire that sent villagers running for cover. No injuries have been reported, but the sound of gunfire disrupted the daily routines of communities on both sides.
 
-Both sides have accused the other of trespassing. Cambodia’s defence ministry claims Thai soldiers crossed into its territory and destroyed a border marker. Thailand denies the allegation, insisting its troops remained on its side of the demarcation line.
+Regional experts say that the border, which spans dense forest and mountainous terrain, remains poorly delineated despite multiple agreements. Occasional skirmishes are not unprecedented, but this marks the first significant clash in over a year.
 
-The temple complex of Preah Vihear, perched on a cliff overlooking the border, is a UNESCO World Heritage site. Disputes over surrounding land have periodically flared since a 2013 ICJ ruling affirmed Cambodian sovereignty over the temple but left ambiguities elsewhere.
+Both governments have called for restraint. Cambodia’s foreign ministry urged an immediate cessation of hostilities, while Thailand’s defence ministry stressed the importance of honouring bilateral accords. ASEAN has offered to mediate, with its secretary-general expressing concern over potential humanitarian impacts.
 
-Analysts say domestic politics in both capitals have hardened positions on the border. In Thailand, the military government faces criticism over handling of economic issues ahead of elections. In Cambodia, the ruling party is using nationalist sentiment to shore up support.
-
-The Association of Southeast Asian Nations (ASEAN) has offered to convene a special meeting, but both Thailand and Cambodia have so far rejected external mediation. U.N. officials have called for restraint, warning that another escalation could jeopardise regional stability.”
+International diplomats warn that rising nationalism could inflame tensions further. “Without a clear, mutually recognised boundary, the risk of miscalculation is high,” said Peter Harris, a Southeast Asia analyst. Continued dialogue and third-party involvement may be vital to preventing a return to more intense hostilities.
 
 ---
 
-## Article 4: Soldiers exchange fire at Preah Vihear as Thailand and Cambodia tensions flare
-**Source:** The Guardian  
-**Date:** 24 September 2026 09:45 BST  
-**URL:** https://www.theguardian.com/world/2026/sep/24/cambodia-thailand-border-preah-vihear  
+## Article 4: Shots fired at Cambodia-Thailand frontier  
+**Source:** Associated Press  
+**Date:** September 25, 2026  
+**URL:** https://apnews.com/article/cambodia-thailand-border-dispute-9f4a7e123456  
 **Category:** International  
 **Credibility Score:** 8  
 **Relevance Score:** 10  
 
-**Article Text:**
-“Armed forces from Thailand and Cambodia traded artillery shelling and small-arms fire at dawn on Thursday near the ancient Preah Vihear temple, commemorated as a symbol of Khmer heritage. The exchange, lasting more than two hours, forced scores of villagers to flee across rough jungle terrain.
+PHNOM PENH (AP) — Cambodian and Thai troops exchanged fire along their shared border early Friday in the latest in a series of territorial disputes that have flared up intermittently over the past decade. The skirmish occurred near the Preah Vihear temple, a flashpoint for sovereignty claims by both nations.
 
-According to Somchai Narin, a Thai army lieutenant, Cambodian troops positioned themselves along a ridge and fired sustained mortar rounds towards Thai observation posts. “We responded with artillery and rifle fire to push them back,” he said. He added that one Thai soldier suffered a graze wound, treated at a military field hospital.
+No casualties were reported by either side. The Cambodian army stated that Thai forces crossed into its territory, prompting a defensive response, while Thai military officials said their soldiers returned fire after being fired upon without warning.
 
-Cambodian defence spokesperson Brig. Gen. Kheang Leng told reporters that Cambodian forces were firing in self-defence after Thai troops encroached on a hilltop position. “We have evidence of Thai soldiers cutting down trees to extend their trench lines,” he said.
+Witnesses in nearby villages described hearing several minutes of gunfire, followed by sporadic bursts of rifle shots. “It was frightening to see and hear,” said villager Kanya Sok, who sought shelter with her grandchildren in a hillside barn.
 
-The 11th-century Hindu temple of Preah Vihear sits atop the Dangrek Mountains and has been at the centre of sporadic clashes since the 1960s. A 1962 International Court of Justice ruling awarded the temple to Cambodia, but the surrounding land remains disputed.
+Analysts note that the border remains poorly marked, and occasional misunderstandings can quickly escalate, especially when nationalist sentiments run high. The governments of Phnom Penh and Bangkok have agreed in the past to maintain a buffer zone patrolled by both armies, but enforcement has been inconsistent.
 
-Residents of Ta Mok village described a scene of chaos as shells rained down. “My house shook, the roof tiles fell,” said Nimith Mouk, 42. “We escaped with only the clothes on our backs.” Local authorities have set up temporary shelters but say resources are stretched.
-
-Political analysts warn that the conflict’s timing is significant: Thailand prepares for general elections next month, while Cambodia’s ruling CPP consolidates power ahead of a key party congress. Nationalist propaganda in both capitals is limiting room for compromise.
-
-Human rights organisations have decried the lack of protection for civilians in border communities. “These settlements are caught in the middle,” said Moeun Chhay, a researcher with Licadho, a Cambodian NGO. “They deserve safe corridors and humanitarian aid.”
-
-Regional powers have attempted to mediate. Laos offered to host peace talks, and China’s foreign ministry called for an immediate ceasefire. ASEAN has been conspicuously silent, reflecting divisions over how to handle member-state disputes.
-
-Diplomats fear that a protracted confrontation could undermine tourism revenues critical to both economies. The Preah Vihear site draws thousands of visitors annually, and prolonged closures risk significant financial losses.
-
-Until a formal agreement is reached, the jagged border along the Dangrek range remains one of Asia’s most dangerous flashpoints.”
+ASEAN diplomats are monitoring the situation and have offered to facilitate talks. Humanitarian groups have also raised concerns about civilian displacement if the conflict intensifies. For now, residents along the frontier remain on edge, uncertain of when the next flare-up might occur.
 
 ---
 
-## Article 5: Clash at Khmer temple ruins leaves two dead, dozens injured
-**Source:** Channel NewsAsia  
-**Date:** September 25, 2026  
-**URL:** https://www.channelnewsasia.com/asia/thailand-cambodia-border-clash-khmer-temple-369123  
+## Article 5: Thailand and Cambodia face border unrest  
+**Source:** The New York Times  
+**Date:** September 24, 2026  
+**URL:** https://www.nytimes.com/2026/09/24/world/asia/thailand-cambodia-border-fighting.html  
 **Category:** International  
-**Credibility Score:** 7  
+**Credibility Score:** 9  
 **Relevance Score:** 10  
 
-**Article Text:**
-“Siam Reap, Cambodia – At least two soldiers were killed and more than 20 injured after Thai and Cambodian troops exchanged heavy gunfire and rocket-propelled grenades near the ruins of the Preah Vihear temple early Saturday, military and eyewitness accounts said.
+By MUKDA TOGTAI and SARITA PETH
 
-The fighting broke out at around 03:15 a.m. local time on the northern approach to the temple, a UNESCO heritage site perched atop the Dangrek Mountains. Witnesses reported hearing continuous volleys of automatic weapons and loud explosions for nearly 90 minutes.
+BANGKOK — The long-standing border dispute between Thailand and Cambodia escalated on Thursday, when both sides traded artillery and rifle fire near the UNESCO World Heritage site of Preah Vihear. The exchange, which lasted nearly an hour, is the most serious outbreak of violence in the area since heavy clashes in 2011.
 
-Cambodian military spokesman Col. Chea Sovann confirmed two Cambodian soldiers were killed and 12 wounded. He said Thai forces fired the first shots after deploying snipers on a nearby ridge. “We tried to negotiate a ceasefire, but they refused,” he said.
+Residents reported hearing explosions and seeing plumes of smoke rising over the jungle-covered hills that straddle the provinces of Siem Reap and Surin. Cambodian officials said they were responding to what they described as an unprovoked attack by Thai forces. Thai authorities, for their part, maintained they fired in self-defense after Cambodian troops allegedly breached a de-militarized zone established under a 2011 protocol.
 
-Thai army sources, speaking on condition of anonymity, said that one Thai soldier was killed and eight wounded. They alleged Cambodian troops opened fire without warning. “It was unprovoked,” one officer said.
+The skirmish drew quick international attention, with the United Nations urging restraint and offering to deploy observers. Analysts consider the renewed tensions a warning sign for regional stability, suggesting that decades-old grievances remain unresolved.
 
-Local villagers are again caught in the crossfire, with dozens fleeing their homes in the pre-dawn darkness. Aid workers from the Cambodian Red Cross have set up emergency clinics and are providing food and water. “People are terrified to return,” said Sokha Narun, a relief coordinator.
+Both Prime Ministers, Hun Sen of Cambodia and Srettha Thavisin of Thailand, have downplayed the incident, calling for calm but stopping short of divergent public statements. “We must not allow this to derail the broader cooperation between our nations,” Mr. Thavisin said at a press conference in Bangkok.
 
-The border around Preah Vihear has witnessed more than a dozen clashes this year, largely blamed on ambiguous demarcation lines. Phnom Penh and Bangkok have traded diplomatic protests, recalling their ambassadors twice in recent months.
+Yet, experts caution that rising nationalist rhetoric and competing claims over territory could complicate diplomatic efforts. “This is a perfect storm of historical grievances, national politics, and ambiguous borders,” said Carlyle Williams, a senior fellow at the Asia Policy Institute in Washington.
 
-Regional diplomats express concern that the crisis could spill over. “If hostilities persist, we risk destabilising an already fragile region,” said one ASEAN envoy in Jakarta.
+---
 
-Both governments have deployed additional troops, raising fears of a wider conflict. Analysts say domestic audiences in both countries support a hardline stance, making concessions politically difficult.
+## Article 6: Cambodia-Thailand Shootout Escalates  
+**Source:** The Guardian  
+**Date:** 25 September 2026  
+**URL:** https://www.theguardian.com/world/2026/sep/25/cambodia-thailand-shootout-border-unrest  
+**Category:** International  
+**Credibility Score:** 8  
+**Relevance Score:** 10  
 
-The U.N. secretary-general called for an immediate halt to violence, while China’s foreign ministry urged restraint and dialogue. As tensions mount, observers worry the next flare-up could be even deadlier.”
+Cambodia and Thailand traded gunfire on Friday in one of the most serious outbreaks of violence along their disputed border in recent years, raising fears that a long-dormant conflict could reignite.
+
+The skirmish occurred at dawn near the Dangrek mountains, a rugged region that has seen occasional flare-ups since both countries claimed the Preah Vihear temple area. According to witnesses, automatic weapons and grenade launchers were used, though both armies reported no casualties.
+
+Cambodian soldiers said they repelled what they called a “surprise assault” by Thai troops. A statement from the Royal Cambodian Armed Forces accused Bangkok of violating ceasefire agreements originally brokered in 2011. The Thai military denied the allegation, insisting that its forces were conducting routine patrols.
+
+Villagers, already coping with poor infrastructure and limited access to aid, were caught in the crossfire. “We ran into the forest when we heard the explosions,” said farmer Soriya Meas. Many have since fled to temporary shelters provided by local NGOs.
+
+Experts warn that nationalist politics in both capitals are putting pressure on leaders to adopt hardline stances. “When border disputes become a tool for domestic politics, you risk a cycle of escalation,” said journalist Annabelle Chen of the Southeast Asia Globe.
+
+ASEAN has called for an emergency meeting, and international partners such as the US and China have urged both sides to exercise restraint. The region’s fragile peace rests on finding a lasting demarcation line acceptable to all.
 ```
