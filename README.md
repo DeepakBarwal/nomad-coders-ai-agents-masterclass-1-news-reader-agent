@@ -14,4 +14,5 @@ mise use uv@latest
 
 ```bash
 uv sync
+uv run main.py
 ```
